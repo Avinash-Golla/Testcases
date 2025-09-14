@@ -1,5 +1,7 @@
 package com.myTests.tests;
 
+import org.testng.annotations.Test;
+
 import java.util.*;
 class TC010
 {
@@ -11,3 +13,4 @@ class TC010
 
 
 }
+
