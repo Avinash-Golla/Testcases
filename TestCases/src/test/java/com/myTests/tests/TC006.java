@@ -1,4 +1,5 @@
 package com.myTests.tests;
+import org.testng.annotations.Test;
 
 import java.util.*;
 class TC006
@@ -11,3 +12,4 @@ class TC006
 
 
 }
+
