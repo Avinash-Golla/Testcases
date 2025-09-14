@@ -1,4 +1,5 @@
 package com.myTests.tests;
+import org.testng.annotations.Test;
 
 import org.testng.annotations.Test;
 
@@ -13,4 +14,5 @@ class TC010
 
 
 }
+
 
