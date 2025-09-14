@@ -2,7 +2,7 @@ package com.myTests.tests;
 import org.testng.annotations.Test;
 
 import java.util.*;
-class TC003
+public class TC003
 {
    @Test
    public void testcase003()
@@ -12,5 +12,6 @@ class TC003
 
 
 }
+
 
 
