@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import org.testng.annotations.Test;
 
 import java.util.*;
-class TC010
+public class TC010
 {
    @Test
    public void testcase010()
@@ -14,6 +14,7 @@ class TC010
 
 
 }
+
 
 
 
