@@ -5,11 +5,12 @@ import java.util.*;
 class TC007
 {
    @Test
-   public static void main(String args[])
+   public void testcase007()
     {
         System.out.println("This testcase result is tc007");
     }
 
 
 }
+
 
