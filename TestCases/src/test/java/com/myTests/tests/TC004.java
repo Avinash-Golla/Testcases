@@ -1,7 +1,7 @@
 package com.myTests.tests;
 
 import java.util.*;
-class TC004
+public class TC004
 {
    @Test
    public void testcase004()
@@ -11,5 +11,6 @@ class TC004
 
 
 }
+
 
 
