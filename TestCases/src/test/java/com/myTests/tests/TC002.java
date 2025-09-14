@@ -3,7 +3,7 @@ package com.myTests.tests;
 import org.testng.annotations.Test;
 
 import java.util.*;
-class TC002
+public class TC002
 {
    @Test
    public void testcase002()
@@ -13,5 +13,6 @@ class TC002
 
 
 }
+
 
 
